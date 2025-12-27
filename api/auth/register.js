@@ -1,3 +1,4 @@
+import pool from "../../lib/db.js";
 import bcrypt from "bcryptjs";
 import { Sequelize, DataTypes } from "sequelize";
 
